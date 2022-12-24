@@ -26,7 +26,7 @@ public class DemoGdgApplication {
 					.build();
 
 			Student student2 = Student.builder()
-					.firstName("aminaa")
+					.firstName("amina")
 					.lastName("amina")
 					.email("amina@gmail.com")
 					.build();
